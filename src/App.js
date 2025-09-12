@@ -6,7 +6,7 @@ function App() {
           {/* не надо указывать папку из которой доставать */}
           <img src="/img/logo.png"/> 
           <div className="headerInfo">
-            <h3>Магазин Кроссовок</h3>
+            <h3>Sneaker store react</h3>
             <p>Магазин лучших кроссовок</p>
           </div>
         </div>
