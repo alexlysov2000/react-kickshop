@@ -105,6 +105,8 @@ content {
 }
 
 .drawer {
+  display: flex;
+  flex-direction: column;
   position: absolute;
   width: 420px;
   right: 0;
@@ -114,6 +116,7 @@ content {
   padding: 30px;
 
   .items {
+    flex: 1;
     overflow: auto;
     margin-bottom: 40px;
   }
@@ -154,7 +157,7 @@ content {
         transform: translateX(5px);
       }
     }
-    
+
     img {
       position: absolute;
       right: 30px;
