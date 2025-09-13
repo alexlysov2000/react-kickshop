@@ -1,0 +1,32 @@
+<svg viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32.000000" height="32.000000" fill="none" customFrame="#000000">
+	<defs>
+		<linearGradient id="paint_linear_0" x1="16" x2="16" y1="-9.79717482e-16" y2="32" gradientUnits="userSpaceOnUse">
+			<stop stop-color="rgb(137.071,240.125,156.114)" offset="0" stop-opacity="1" />
+			<stop stop-color="rgb(59.6062,198.688,85.306)" offset="1" stop-opacity="1" />
+		</linearGradient>
+		<clipPath id="clipPath_0">
+			<rect width="10.666666" height="10.666666" x="10.666687" y="10.666687" fill="rgb(255,255,255)" />
+		</clipPath>
+		<g id="pixso_custom_effect_1">
+			<effect x="0.000000" y="2.000000" visibility="visible" fill="rgb(0,0,0)" fill-opacity="0.100000001" effectType="dropShadow" showShadowBehind="1" stdDeviation="0" radius="0" />
+		</g>
+		<filter id="filter_1" width="10.669769" height="10.513245" x="10.666504" y="11.329834" filterUnits="userSpaceOnUse" customEffect="url(#pixso_custom_effect_1)" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix" />
+			<feOffset dx="0.000000" dy="2.000000" in="SourceAlpha" />
+			<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.1 0 " />
+			<feBlend result="effect_dropShadow_1" in2="BackgroundImageFix" mode="normal" />
+			<feBlend result="shape" in="SourceGraphic" in2="effect_dropShadow_1" mode="normal" />
+		</filter>
+	</defs>
+	<g id="Group 95">
+		<rect id="Rectangle 22" width="32.000000" height="32.000000" x="0.000000" y="0.000000" rx="8.000000" fill="url(#paint_linear_0)" />
+		<g id="bi:check-lg" clip-path="url(#clipPath_0)" customFrame="url(#clipPath_0)">
+			<rect id="bi:check-lg" width="10.666666" height="10.666666" x="10.666687" y="10.666687" fill="rgb(255,255,255)" fill-opacity="0" />
+			<g id="Group">
+				<g filter="url(#filter_1)">
+					<path id="Vector" d="M19.6567 11.6207C19.8393 11.4363 20.0875 11.3318 20.347 11.3299C20.6066 11.3279 20.8563 11.4288 21.0416 11.6105C21.227 11.7921 21.3329 12.0398 21.3362 12.2993C21.3395 12.5588 21.24 12.809 21.0593 12.9954L15.8327 19.5294C15.7429 19.626 15.6345 19.7036 15.5141 19.7575C15.3937 19.8114 15.2636 19.8404 15.1317 19.8429C14.9998 19.8454 14.8687 19.8213 14.7463 19.772C14.6239 19.7227 14.5127 19.6492 14.4193 19.556L10.954 16.092C10.7699 15.9078 10.6664 15.6579 10.6665 15.3975C10.6666 15.137 10.7701 14.8872 10.9543 14.703C11.1386 14.5189 11.3884 14.4155 11.6489 14.4155C11.9094 14.4156 12.1592 14.5191 12.3433 14.7034L15.084 17.4447L19.6307 11.6514C19.6389 11.6408 19.6478 11.6308 19.6573 11.6214L19.6567 11.6207Z" fill="rgb(255,255,255)" fill-rule="nonzero" />
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>
